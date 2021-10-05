@@ -1,5 +1,5 @@
 <?php
 
-echo "Index File";
+echo "Index File Main";
 
 ?>
